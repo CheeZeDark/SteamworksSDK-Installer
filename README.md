@@ -1,2 +1,7 @@
 # SteamworksSDK-Installer
-SteamworksSDK-Installer by CheeZeDark
+This is Installer for SteamworksSDK... So Enjoy to use this!!!
+
+## Donations
+
+[LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
+
